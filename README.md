@@ -13,6 +13,8 @@ I have included a TEC logo image and a TEC title image into the asset folder to 
 
 Concerning Spirit Points you can set Sanity "on" in the optionnal rules settings and use the rules from "The Exorcist Codex" for Spirit Points with the SAN pool (unfortunately brp system setting doesn't let you change the 'Sanity' name for now, so you cannot have your custom "Spirit Points" name on the Cs).
 
+For Holy Faith rating , you can enable "Custom Resource" (in the optional rules settings also) and label it "Holy Faith"
+
 For those GMs interested in reflecting the demon dices, there is a module called dice pool which you can use :) (just browse fvtt modules)
 
 Good Play !
