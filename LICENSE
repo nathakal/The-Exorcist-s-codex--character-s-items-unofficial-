@@ -1,5 +1,3 @@
-MIT License
-
 Chaosium
 Part of the content is part of the BRP system under orc licence (UGE Compendium)
 Permission is given for users to make limited derivative use of this publication
@@ -10,13 +8,19 @@ Basic Role Playing Universal Game Engine © copyright 1981–2023 Chaosium Inc. 
 rights reserved.
 Copyright (c) 2023 Genii-Locorum
 
-
-Parts of the contents of the compendiums (descriptions, names, images) specific to The Exorcist's Codex, are the property of "Two Starving Gnolls" and are used with the kind authorization from "Two Starving Gnolls" .Permission is given for users to make limited derivative use of this publication for personal use on the Foundry VTT platform. 
-No rights for any commercial use are granted. No part of this publication may be reproduced or distributed for use outside of the Foundry VTT platform.
+2025 © Two Starving Gnolls
+Parts of the contents of the compendiums (descriptions, names, images) specific to
+The Exorcist's Codex, are the property of "Two Starving Gnolls" and are used with
+the kind authorization from "Two Starving Gnolls" .Permission is given for users to
+make limited derivative use of this publication for personal use on the Foundry VTT
+platform. 
+No rights for any commercial use are granted. No part of this publication may be
+reproduced or distributed for use outside of the Foundry VTT platform.
 2025 © Two Starving Gnolls
 ALL RIGHTS RESERVED.
 
 For the remaining files :
+MIT License
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -24,8 +28,9 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
-This license does not apply to the compendium content listed in this software's
-"packs"  or "assets" directory.   See Above regarding Chaosium's and TwoStarvingGnolls' license conditions
+This license does not apply to the compendiums content listed in this software's
+"packs"  or "assets" directory.   See Above regarding Chaosium's and
+TwoStarvingGnolls' license conditions
 
 The above copyrights notices and this permission notice shall be included in all
 copies or substantial portions of the Software.
