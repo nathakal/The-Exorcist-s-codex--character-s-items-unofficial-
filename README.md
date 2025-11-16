@@ -10,7 +10,7 @@ These materials are used with direct,
 project-specific permission granted exclusively to the creator of this
 module (Natha) by Two Starving Gnolls AS. This permission applies only to
 this module and does not extend to any other person, project, or
-publication.
+publication. See the LICENCE for details
 
 INSTALL :
 1- Install the module as usual, then 
