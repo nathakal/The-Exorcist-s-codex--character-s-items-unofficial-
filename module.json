@@ -1,13 +1,16 @@
 {
   "id": "the-exorcists-codex-character-items",
   "title": "The Exorcist's Codex -- character items",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "manifest": "https://github.com/nathakal/the-exorcist-s-codex--character-s-items-unofficial-/releases/latest/download/module.json",
-  "download": "https://github.com/nathakal/the-exorcist-s-codex--character-s-items-unofficial-/releases/download/0.0.4/the-exorcists-codex-character-items.zip",
+  "download": "https://github.com/nathakal/the-exorcist-s-codex--character-s-items-unofficial-/releases/download/0.0.5/the-exorcists-codex-character-items.zip",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
   },
+  "esmodules": [
+    "the-exorcists-codex-character-items.js"
+  ],
   "authors": [
     {
       "name": "Natha",
@@ -27,8 +30,7 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "flags": {}
+      }
     },
     {
       "name": "tec-professions",
@@ -39,8 +41,7 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "flags": {}
+      }
     },
     {
       "name": "tec-backgrounds",
@@ -51,8 +52,7 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "flags": {}
+      }
     },
     {
       "name": "tec-motivations",
@@ -63,8 +63,7 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "flags": {}
+      }
     },
     {
       "name": "tec-skills-categories",
@@ -75,8 +74,7 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "flags": {}
+      }
     }
   ],
   "relationships": {
