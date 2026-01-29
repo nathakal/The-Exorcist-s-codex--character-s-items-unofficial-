@@ -27,7 +27,7 @@ Concerning Spirit Points you can set Sanity "on" in the optional rules settings 
 
 For Holy Faith rating , you can enable "Custom Resource" (in the optional rules settings also) and label it "Holy Faith"
 
- NEW!!! There is now A partial french translation of the terms included. just activate Babele module and put the translation files in your selected babele directory in a "fr" folder. Then reload session and content (Skills names and Professions names will be translated.
+ NEW!!! There is now A partial french translation of the terms included. just activate Babele module and put the translation files in your selected babele directory in a "fr" folder. Then reload session and content (Skills names and Professions names) will be translated.
 
 For those GMs interested in reflecting the demon dices, there is a module called dice pool which you can use :) (just browse fvtt modules)
 
