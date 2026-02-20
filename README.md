@@ -1,10 +1,8 @@
 # The-Exorcist-s-codex--character-s-items-unofficial- EN (Fr avec module Babele)
 
-This is compendiums of professions, skills, and motivations, to create Characters and play The Exorcist's codex RPG (Two Starving Gnolls) on Foundry VTT with the BRP System .
+This is compendiums of professions, skills, backgrounds and motivations, to create Characters and play The Exorcist's codex RPG (Two Starving Gnolls) on Foundry VTT with the BRP System .
 
-This is A Work in Progress. Don't expect everything to be upright. This is more a quick and dirty trick to be able to create characters and play The Exorcist's Codex in Foundry VTT Quickly.
-
-For now , "professions", "skills" and "Motivations" compendiums are filled. "Backgrounds" will follow as i have the time !
+This is A Work in Progress. Don't expect everything to be upright. This is more a trick to be able to create characters and play The Exorcist's Codex in Foundry VTT Quickly.
  
 These materials are used with direct,
 project-specific permission granted exclusively to the creator of this
