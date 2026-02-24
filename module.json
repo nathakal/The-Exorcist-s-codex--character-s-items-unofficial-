@@ -1,9 +1,9 @@
 {
   "id": "the-exorcists-codex-character-items",
   "title": "The Exorcist's Codex -- character items",
-  "version": "0.0.6",
+  "version": "0.0.8",
   "manifest": "https://github.com/nathakal/the-exorcist-s-codex--character-s-items-unofficial-/releases/latest/download/module.json",
-  "download": "https://github.com/nathakal/the-exorcist-s-codex--character-s-items-unofficial-/releases/download/0.0.6/the-exorcists-codex-character-items-0.0.6.zip",
+  "download": "https://github.com/nathakal/the-exorcist-s-codex--character-s-items-unofficial-/releases/download/0.0.8/the-exorcists-codex-character-items-0.0.8.zip",
   "compatibility": {
     "minimum": "13",
     "verified": "13.351"
@@ -50,6 +50,50 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "tec-backgrounds",
+      "label": "The Exorcist's Codex -- Backgrounds",
+      "path": "packs/tec-backgrounds",
+      "type": "Item",
+      "system": "brp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "tec-unintended-faceless",
+      "label": "The Exorcist's Codex -- Unintended Faceless",
+      "path": "packs/tec-unintended-faceless",
+      "type": "Adventure",
+      "system": "brp",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "tec-skill-categories",
+      "label": "The Exorcist's Codex -- Skill Categories",
+      "path": "packs/tec-skill-categories",
+      "type": "Item",
+      "system": "brp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "tec-tables",
+      "label": "The Exorcist's Codex -- Tables",
+      "path": "packs/tec-tables",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "brp"
     }
   ],
   "relationships": {
