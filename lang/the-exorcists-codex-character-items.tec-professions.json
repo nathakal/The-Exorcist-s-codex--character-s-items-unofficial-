@@ -1,0 +1,42 @@
+{
+  "label": "The Exorcist's Codex -- Professions",
+  "folders": {},
+  "entries": {
+    "Church-Licensed Exorcist": {
+      "name": "Exorciste Licencie de l'Eglise"
+    },
+    "Demonologist": {
+      "name": "Demonologiste"
+    },
+    "Futsumashi": {
+      "name": "Futsumashi"
+    },
+    "Occult Detective": {
+      "name": "Detective Occulte"
+    },
+    "Order Guardian": {
+      "name": "Guardien de l'Ordre"
+    },
+    "Priest": {
+      "name": "Pretre"
+    },
+    "Private Exorcist": {
+      "name": "Exorciste Prive"
+    },
+    "Relic Custodian": {
+      "name": "Gardien de Reliques"
+    },
+    "Relic Hunter": {
+      "name": "Chasseur de Reliques"
+    },
+    "Shaman": {
+      "name": "Chamane"
+    },
+    "Spiritual Medium": {
+      "name": "Medium Spirituel"
+    },
+    "Vanguard": {
+      "name": "Vangarde"
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "label": "The Exorcist's Codex -- Backgrounds",
+  "folders": {},
+  "entries": {
+    "Altruistic Upbringing": {
+      "name": "Education Altruiste"
+    },
+    "Artistic Upbringing": {
+      "name": "Education Artistique"
+    },
+    "Astrological Enthusiast": {
+      "name": "Enthousiaste d'Astrologie"
+    },
+    "Clerical Orphan": {
+      "name": "Orphelin de l'Eglise"
+    },
+    "Cultural Guardian": {
+      "name": "Gardien Culturel"
+    },
+    "Devout Convert": {
+      "name": "Devot converti"
+    },
+    "Faithful Artisan": {
+      "name": "Artisan Fidele"
+    },
+    "Humanitarian": {
+      "name": "Humanitaire"
+    },
+    "Naturalist": {
+      "name": "Naturaliste"
+    },
+    "Philosopher": {
+      "name": "Philosophe"
+    },
+    "Raised by Nobles": {
+      "name": "Eleve par des Nobles"
+    },
+    "Raised by Religious Fanatics": {
+      "name": "Eleve par des Fanatiques Religieux"
+    },
+    "Reformed Cultist": {
+      "name": "Cultiste reforme"
+    },
+    "Religious Apprentice": {
+      "name": "Apprenti Religieux"
+    },
+    "Restless Seeker": {
+      "name": "Chercheur Sans Repos"
+    },
+    "Rural Resident": {
+      "name": "Resident Rural"
+    },
+    "Skeptical Academic": {
+      "name": "Academique sceptique"
+    },
+    "Skeptical Analyst": {
+      "name": "Analyste sceptique"
+    },
+    "Unyielding Visionary": {
+      "name": "Visionnaire inflexible"
+    },
+    "Urban Atheist": {
+      "name": "Athee urbain"
+    }
+  }
+}

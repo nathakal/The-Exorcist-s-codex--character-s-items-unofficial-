@@ -1,0 +1,453 @@
+{
+  "label": "The Exorcist's Codex -- skills",
+  "folders": {
+    "Art Specialisms": "Art Specialisations",
+    "Combat": "Combat",
+    "Communication": "Communication",
+    "Craft Specialisms": "Artisanat Specialisations",
+    "Drive Specialisms": "Conduite Specialisations",
+    "Firearms": "Armes a Feu",
+    "Manipulation": "Manipulation",
+    "Melee Weapons": "Armes de Melee",
+    "Mental": "Mentale",
+    "Missile Weapons": "Armes a Distance",
+    "Perception": "Perception",
+    "Physical": "Physique",
+    "Pilot Specialisms": "Piloter Specialisations",
+    "Repair Specialisms": "Reparer Specialisations"
+  },
+  "entries": {
+    "Appraise": {
+      "name": "Evaluer"
+    },
+    "Art (Calligraphy)": {
+      "name": "Art (Calligraphie)"
+    },
+    "Art (Composing)": {
+      "name": "Art (Composer)"
+    },
+    "Art (Conceptual Art)": {
+      "name": "Art (Art Conceptuel)"
+    },
+    "Art (Drafting)": {
+      "name": "Art (Croquis)"
+    },
+    "Art (Drawing)": {
+      "name": "Art (Dessiner)"
+    },
+    "Art (Painting)": {
+      "name": "Art (Peinture)"
+    },
+    "Art (Photography)": {
+      "name": "Art (Photographie)"
+    },
+    "Art (Poetry)": {
+      "name": "Art (Poesie)"
+    },
+    "Art (Sculpture)": {
+      "name": "Art (Sculpture)"
+    },
+    "Art (Songwriting)": {
+      "name": "Art (Composer Chanson)"
+    },
+    "Art (Writing)": {
+      "name": "Art (Ecriture)"
+    },
+    "Art (specify)": {
+      "name": "Art (specifier)"
+    },
+    "Axe": {
+      "name": "Hache"
+    },
+    "Bargain": {
+      "name": "Marchander"
+    },
+    "Blowgun": {
+      "name": "Sarbacane"
+    },
+    "Bola": {
+      "name": "Bola"
+    },
+    "Boomerang": {
+      "name": "Boomerang"
+    },
+    "Bow": {
+      "name": "Arc"
+    },
+    "Brawl": {
+      "name": "Bagarre"
+    },
+    "Climb": {
+      "name": "Grimper"
+    },
+    "Club": {
+      "name": "Massue"
+    },
+    "Command": {
+      "name": "Commander"
+    },
+    "Craft (Blacksmithing)": {
+      "name": "Artisanat (Forgeron)"
+    },
+    "Craft (Carpentry)": {
+      "name": "Artisanat (Charpentier)"
+    },
+    "Craft (Ceramics)": {
+      "name": "Artisanat (Ceramique)"
+    },
+    "Craft (Cooking)": {
+      "name": "Artisanat (Cuisine)"
+    },
+    "Craft (Knots)": {
+      "name": "Artisanat (Noeuds)"
+    },
+    "Craft (Leatherworking)": {
+      "name": "Artisanat (Travail du Cuir)"
+    },
+    "Craft (Locksmithing)": {
+      "name": "Artisanat (Serrurier)"
+    },
+    "Craft (Metalwork)": {
+      "name": "Artisanat (Travail du Metal)"
+    },
+    "Craft (Photography)": {
+      "name": "Artisanat (Photographie)"
+    },
+    "Craft (Stonemasonry)": {
+      "name": "Artisanat (Maçonnerie Pierre)"
+    },
+    "Craft (specify)": {
+      "name": "Artisanat (specifier)"
+    },
+    "Crossbow": {
+      "name": "Arbalete"
+    },
+    "Dagger": {
+      "name": "Dague"
+    },
+    "Dart": {
+      "name": "Flechettes"
+    },
+    "Demolition": {
+      "name": "Demolition"
+    },
+    "Demonic Sense 🕀": {
+      "name": "Sens Demonique 🕀"
+    },
+    "Disguise": {
+      "name": "Deguiser"
+    },
+    "Dodge": {
+      "name": "Esquive"
+    },
+    "Drive (Automobile)": {
+      "name": "Conduire (Automobile)"
+    },
+    "Drive (Bicycle)": {
+      "name": "Conduire (Bicyclette)"
+    },
+    "Drive (Carriage)": {
+      "name": "Conduire (Chariot)"
+    },
+    "Drive (Motorcycle)": {
+      "name": "Conduire (Moto)"
+    },
+    "Drive (Sleigh)": {
+      "name": "Conduire (Traineau)"
+    },
+    "Drive (Truck)": {
+      "name": "Conduire (Camion)"
+    },
+    "Drive (specify)": {
+      "name": "Conduire (specifier)"
+    },
+    "Etiquette (Cult Societies 🕀)": {
+      "name": "Etiquette (Societes Cultuelles 🕀)"
+    },
+    "Etiquette (Cultural Norms)": {
+      "name": "Etiquette (Normes Culturelles)"
+    },
+    "Etiquette (High Society)": {
+      "name": "Etiquette (Haute Societe)"
+    },
+    "Etiquette (Otherworldly Beings 🕀)": {
+      "name": "Etiquette (Etres d'Outremonde 🕀)"
+    },
+    "Etiquette (Professional Conduct)": {
+      "name": "Etiquette (Conduite Professionnelle)"
+    },
+    "Etiquette (Religious and Order Hierarchies)": {
+      "name": "Etiquette (Hierarchies Religieuses et de l'Ordre)"
+    },
+    "Fast Talk": {
+      "name": "Baratin"
+    },
+    "Fine Manipulation": {
+      "name": "Manipulation precise"
+    },
+    "Firearm (Other)": {
+      "name": "Armes a Feu (Autre)"
+    },
+    "Firearm (various)": {
+      "name": "Armes a Feu (variable)"
+    },
+    "First Aid": {
+      "name": "Premiers Soins"
+    },
+    "Flail": {
+      "name": "Fleau"
+    },
+    "Grapple": {
+      "name": "Aggripper"
+    },
+    "Grenade": {
+      "name": "Grenade"
+    },
+    "Hammer": {
+      "name": "Marteau"
+    },
+    "Heavy Machine (specify)": {
+      "name": "Engins Lourds (specifier)"
+    },
+    "Hide": {
+      "name": "Dissimuler"
+    },
+    "Improvised": {
+      "name": "Improvisee"
+    },
+    "Insight": {
+      "name": "Intuition"
+    },
+    "Javelin": {
+      "name": "Javelot"
+    },
+    "Jump": {
+      "name": "Sauter"
+    },
+    "Knowledge (Accounting)": {
+      "name": "Connaissance (Comptabilite)"
+    },
+    "Knowledge (Archaeology)": {
+      "name": "Connaissance (Archeologie)"
+    },
+    "Knowledge (Art History)": {
+      "name": "Connaissance (Histoire de l'Art)"
+    },
+    "Knowledge (Astronomy)": {
+      "name": "Connaissance (Astronomie)"
+    },
+    "Knowledge (Biology)": {
+      "name": "Connaissance (Biologie)"
+    },
+    "Knowledge (Demonology 🕀)": {
+      "name": "Connaissance (Demonologie 🕀)"
+    },
+    "Knowledge (Divine and Celestial Lore 🕀)": {
+      "name": "Connaissance (Sapiences Divines and Celestes 🕀)"
+    },
+    "Knowledge (History)": {
+      "name": "Connaissance (Histoire)"
+    },
+    "Knowledge (Law)": {
+      "name": "Connaissance (Loi)"
+    },
+    "Knowledge (Literature)": {
+      "name": "Connaissance (Literature)"
+    },
+    "Knowledge (Occult 🕀)": {
+      "name": "Connaissance (Occulte 🕀)"
+    },
+    "Knowledge (Relic Lore 🕀)": {
+      "name": "Connaissance (Connaissance des Reliques 🕀)"
+    },
+    "Knowledge (Spiritualism 🕀)": {
+      "name": "Connaissance (Spiritualisme 🕀)"
+    },
+    "Knowledge (Streetwise)": {
+      "name": "Connaissance (Sens De la Rue)"
+    },
+    "Knowledge (Survival)": {
+      "name": "Connaissance (Survie)"
+    },
+    "Knowledge (Theology)": {
+      "name": "Connaissance (Theologie)"
+    },
+    "Language (Aramaic 🕀)": {
+      "name": "Langue (Aramaic 🕀)"
+    },
+    "Language (Demonic Tongues 🕀)": {
+      "name": "Langue (Dialectes Demoniques 🕀)"
+    },
+    "Language (Latin 🕀)": {
+      "name": "Langue (Latin 🕀)"
+    },
+    "Language (Native) (specify)": {
+      "name": "Langue (Natale) (specifier)"
+    },
+    "Language (Various Codex 🕀)": {
+      "name": "Langue (Codex Variable 🕀)"
+    },
+    "Language (Various Common)": {
+      "name": "Langue (Variable Commune)"
+    },
+    "Lasso": {
+      "name": "Lasso"
+    },
+    "Listen": {
+      "name": "Ecouter"
+    },
+    "Mace": {
+      "name": "Masse"
+    },
+    "Martial Arts (specify)": {
+      "name": "Arts Martiaux (specifier)"
+    },
+    "Medicine": {
+      "name": "Medecine"
+    },
+    "Melee Weapon (Various)": {
+      "name": "Arme de Melee (Variable)"
+    },
+    "Missile Weapon (Various)": {
+      "name": "Arme a Distance (Variable)"
+    },
+    "Mystic Decryption 🕀": {
+      "name": "Decryptage Mystique 🕀"
+    },
+    "Mystic Sense 🕀": {
+      "name": "Sens Mystique 🕀"
+    },
+    "Navigate": {
+      "name": "Naviguer"
+    },
+    "Net": {
+      "name": "Filet"
+    },
+    "Other Melee Weapon (specify)": {
+      "name": "Autre Arme de Melee (specifier)"
+    },
+    "Other Missile Weapon ()": {
+      "name": "Autre Arme a Distance (specifier)"
+    },
+    "Perform (Various)": {
+      "name": "Effectuer (Various)"
+    },
+    "Persuade": {
+      "name": "Persuader"
+    },
+    "Pilot (Aircraft)": {
+      "name": "Piloter (Avion)"
+    },
+    "Pilot (Airship)": {
+      "name": "Piloter (Dirigeable)"
+    },
+    "Pilot (Balloon)": {
+      "name": "Piloter (Ballon)"
+    },
+    "Pilot (Boat)": {
+      "name": "Piloter (Bateau)"
+    },
+    "Pilot (specify)": {
+      "name": "Piloter (specifier)"
+    },
+    "Pistol": {
+      "name": "Pistolet"
+    },
+    "Polearm": {
+      "name": "Arme a Hampe"
+    },
+    "Psyche Mending": {
+      "name": "Guerison Psychique"
+    },
+    "Repair (Electrical)": {
+      "name": "Reparer (Electrique)"
+    },
+    "Repair (Mechanical)": {
+      "name": "Reparer (Mecanique)"
+    },
+    "Repair (specify)": {
+      "name": "Reparer (specifier)"
+    },
+    "Research": {
+      "name": "Recherches"
+    },
+    "Revolver": {
+      "name": "Revolver"
+    },
+    "Ride (specify)": {
+      "name": "Equitation (specifier)"
+    },
+    "Rifle": {
+      "name": "Carabine"
+    },
+    "Sacred Rites 🕀": {
+      "name": "Rites Sacres 🕀"
+    },
+    "Sense": {
+      "name": "Sentir"
+    },
+    "Shield": {
+      "name": "Bouclier"
+    },
+    "Shotgun": {
+      "name": "Fusil"
+    },
+    "Sleight of Hand": {
+      "name": "Tour de PassePasse"
+    },
+    "Sling": {
+      "name": "Fronde"
+    },
+    "Spear": {
+      "name": "Epieu"
+    },
+    "Spirit Communication 🕀": {
+      "name": "Communication d'Esprits 🕀"
+    },
+    "Spiritual Support 🕀": {
+      "name": "Support Spirituel 🕀"
+    },
+    "Spot": {
+      "name": "Remarquer"
+    },
+    "Staff": {
+      "name": "Baton"
+    },
+    "Stealth": {
+      "name": "Discretion"
+    },
+    "Strategy": {
+      "name": "Strategie"
+    },
+    "Submachine Gun": {
+      "name": "Mitraillette"
+    },
+    "Swim": {
+      "name": "Nager"
+    },
+    "Sword": {
+      "name": "Epee"
+    },
+    "Teach": {
+      "name": "Enseigner"
+    },
+    "Technical (Various)": {
+      "name": "Technique (Variable)"
+    },
+    "Throw": {
+      "name": "Lancer"
+    },
+    "Throw Axe": {
+      "name": "Lancer Hache"
+    },
+    "Throw Knife": {
+      "name": "Lancer Couteau"
+    },
+    "Toughness": {
+      "name": "Resistance"
+    },
+    "Track": {
+      "name": "Pister"
+    }
+  }
+}

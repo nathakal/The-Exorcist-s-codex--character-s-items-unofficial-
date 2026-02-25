@@ -1,16 +1,19 @@
 {
   "id": "the-exorcists-codex-character-items",
   "title": "The Exorcist's Codex -- character items",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "manifest": "https://github.com/nathakal/the-exorcist-s-codex--character-s-items-unofficial-/releases/latest/download/module.json",
-  "download": "https://github.com/nathakal/the-exorcist-s-codex--character-s-items-unofficial-/releases/download/0.0.8/the-exorcists-codex-character-items-0.0.8.zip",
+  "download": "https://github.com/nathakal/the-exorcist-s-codex--character-s-items-unofficial-/releases/download/0.0.9/the-exorcists-codex-character-items-0.0.9.zip",
   "compatibility": {
     "minimum": "13",
     "verified": "13.351"
   },
+  "esmodules": [
+    "the-exorcists-codex-character-items.js"
+  ],
   "authors": [
     {
-      "name": "Natha",
+      "name": "Natha (https://github.com/nathakal) (Discord @natha_94594)",
       "flags": {}
     }
   ],
@@ -89,11 +92,11 @@
       "label": "The Exorcist's Codex -- Tables",
       "path": "packs/tec-tables",
       "type": "RollTable",
+      "system": "brp",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "brp"
+      }
     }
   ],
   "relationships": {
@@ -106,5 +109,5 @@
     ]
   },
   "url": "https://github.com/nathakal/The-Exorcist-s-codex--character-s-items-unofficial-",
-  "description": ""
+  "description": "<p>Compendiums for The Exorcist's Codex (TEC) RPG From TwoStarvingGnolls</p><p>Professions, Skills lists and categories, backgrounds, and motivations. </p><p>BONUS NOW INCLUDE THE FREE SCENARIO \"UNINTENDED FACELESS\" READY TO PLAY IN FOUNDRY. </p><p>Most of the Content is 2025 © Two Starving Gnolls used with  authorization. See Licence for details. </p><p>Include FRENCH Localisation for <a href=\"https://gitlab.com/riccisi/foundryvtt-babele\" rel=\"nofollow\" target=\"_blank\" title=\"babele module\">Babele</a> module(put the files in the babele module's configured directory).</p>"
 }
